@@ -1,2 +1,2 @@
 # PsProject
-Adobe Photoshop movie poster project
+Adobe Photoshop brochure project
